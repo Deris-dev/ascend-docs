@@ -37,9 +37,9 @@
 * [1.1](changelog/1.1.md)
 * [1.2](changelog/1.2.md)
 
-## Mentions légales
+## Legal Notices
 
-* [ToS](mentions-legales/tos.md)
-* [Privacy Policy](mentions-legales/privacy-policy.md)
-* [Crédits](mentions-legales/credits.md)
-* [Contact](mentions-legales/contact.md)
+* [ToS](legal-notices/tos.md)
+* [Privacy Policy](legal-notices/privacy-policy.md)
+* [Credits](legal-notices/credits.md)
+* [Contact](legal-notices/contact.md)
