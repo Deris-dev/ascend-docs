@@ -10,12 +10,6 @@ Roles are optional and not required for the bot to function properly.
 Running this command may take approximately **20 seconds to complete**.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-Once the roles have been successfully created, the bot will display the following message :
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="danger" %}
 Once the roles are created, **do not delete them** to avoid any malfunctions due to their absence. However, you are **free to rename** the roles or **change their colors** as you wish—this will not affect the bot’s functionality.
 {% endhint %}
