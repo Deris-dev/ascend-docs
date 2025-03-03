@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Ajouter le bot](https://discord.com/oauth2/authorize?client_id=1312924786451812413)
-* [Rejoindre le support](https://discord.gg/YZQQZ48W2b)
+* [Rejoindre le support](https://support.deris.dev)
 * [Vote pour le bot !](https://top.gg/bot/1312924786451812413/vote)
 * [Bienvenue !](README.md)
 
