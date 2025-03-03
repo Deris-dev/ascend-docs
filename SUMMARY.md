@@ -12,7 +12,7 @@
   * [Language](installation/settings/language.md)
   * [Setup ranks](installation/settings/setup-ranks.md)
   * [Server Tag](installation/settings/server-tag.md)
-  * [Classement](installation/settings/classement.md)
+  * [Leaderboard](installation/settings/leaderboard.md)
   * [Salon des logs](installation/settings/salon-des-logs.md)
   * [Type de logs](installation/settings/type-de-logs.md)
   * [Notifications de rang](installation/settings/notifications-de-rang.md)
