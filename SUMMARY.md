@@ -22,14 +22,14 @@
   * [Ranks (Roles)](installation/settings/ranks-roles.md)
   * [Blacklist](installation/settings/blacklist.md)
 
-## Apprends les bases
+## Learn Basics
 
-* [Rank Points (RP)](apprends-les-bases/rank-points.md)
-* [Streaks (Flammes)](apprends-les-bases/streaks.md)
-* [Saison](apprends-les-bases/saison.md)
-* [Liste des événements](apprends-les-bases/liste-des-evenements/README.md)
-  * [Personnal Message Rush](apprends-les-bases/liste-des-evenements/personnal-message-rush.md)
-  * [Reaction Storm](apprends-les-bases/liste-des-evenements/reaction-storm.md)
+* [Rank Points (RP)](learn-basics/rank-points.md)
+* [Streaks (Flames)](learn-basics/streaks.md)
+* [Saison](learn-basics/saison.md)
+* [Event List](learn-basics/event-list/README.md)
+  * [Personnal Message Rush](learn-basics/event-list/personnal-message-rush.md)
+  * [Reaction Storm](learn-basics/event-list/reaction-storm.md)
 
 ## Changelog
 
