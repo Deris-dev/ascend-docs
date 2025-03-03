@@ -1,32 +1,32 @@
 # Blacklist
 
-L'option **"Blacklist"** vous permet de bloquer le gain de RP dans certains salons spécifiques de votre serveur. Cela peut être utile pour éviter que l'activité dans des salons non pertinents, comme un salon de spam ou de jeux, n'influence les rangs des membres.
+The **"Blacklist"** option allows you to block RP gain in specific channels on your server. This can be useful to prevent activity in irrelevant channels, such as spam or game channels, from affecting members' ranks.
 
-## Comment ajouter ou retirer un salon à la blacklist ?
+### How to Add or Remove a Channel from the Blacklist?
 
-1. Accédez à la commande `/settings` et sélectionnez **Blacklist**.
-2. Dans le menu déroulant, choisissez :
-   * **Ajouter** : pour empêcher le gain de RP dans un salon spécifique.
-   * **Retirer** : pour permettre à nouveau le gain de RP dans un salon précédemment blacklisté.
-3. Sélectionnez le salon concerné dans la liste.
-4. Cliquez sur **Enregistrer** pour appliquer les modifications.
+1. Use the `/settings` command and select **Blacklist**.
+2. In the dropdown menu, choose:
+   * **Add**: to prevent RP gain in a specific channel.
+   * **Remove**: to allow RP gain again in a previously blacklisted channel.
+3. Select the relevant channel from the list.
+4. Click **Save** to apply the changes.
 
-## Fonctionnement de la blacklist
+### How the Blacklist Works
 
-* Les salons ajoutés à la blacklist **ne génèrent plus aucun RP** pour les membres qui y interagissent.
-* Le bot continue de fonctionner normalement dans ces salons (commandes, logs, etc.), mais l'activité des membres n'y est pas prise en compte pour les rangs.
+* Channels added to the blacklist **no longer generate any RP** for members interacting there.
+* The bot will continue to function normally in these channels (commands, logs, etc.), but member activity will not count toward ranks.
 
-## Exemple d'utilisation
+### Example Use Cases
 
-* Vous avez un salon `#jeux` où les membres passent beaucoup de temps à interagir.\
-  👉 Ajoutez ce salon à la blacklist pour que cette activité n'impacte pas leurs rangs.
-* Vous avez blacklisté le salon `#général` par erreur.\
-  👉 Utilisez l'option **Retirer** pour que ce salon génère à nouveau des RP.
+* You have a `#games` channel where members spend a lot of time interacting.\
+  👉 Add this channel to the blacklist so that this activity does not affect their ranks.
+* You mistakenly blacklisted the `#general` channel.\
+  👉 Use the **Remove** option to allow this channel to generate RP again.
 
-### **Puis-je blacklister plusieurs salons en même temps ?**
+#### **Can I Blacklist Multiple Channels at Once?**
 
-Oui, vous pouvez ajouter plusieurs salons à la blacklist. Répétez simplement le processus pour chaque salon.
+Yes, you can add multiple channels to the blacklist. Simply repeat the process for each channel.
 
-### **Que se passe-t-il si je supprime un salon blacklisté ?**
+#### **What Happens If I Delete a Blacklisted Channel?**
 
-Si le salon est supprimé, il disparaîtra automatiquement de la blacklist.
+If the channel is deleted, it will automatically be removed from the blacklist.
