@@ -11,7 +11,7 @@ The **"Log Channel"** option allows you to define which channel on your Discord 
 Once the channel is configured, the bot will automatically send information about RP gained or lost by your members in that channel.
 
 {% hint style="success" %}
-You can choose the display style of the logs between Embed and Simple Message. [Learn how to customize the log style](type-de-logs.md).
+You can choose the display style of the logs between Embed and Simple Message. [Learn how to customize the log style](log-type.md).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/salon-de-log.gif" alt=""><figcaption></figcaption></figure>

@@ -14,7 +14,7 @@
   * [Server Tag](installation/settings/server-tag.md)
   * [Leaderboard](installation/settings/classement.md)
   * [Log Channel](installation/settings/log-channel.md)
-  * [Type de logs](installation/settings/type-de-logs.md)
+  * [Log Type](installation/settings/log-type.md)
   * [Notifications de rang](installation/settings/notifications-de-rang.md)
   * [Salon de notifications](installation/settings/salon-de-notifications.md)
   * [Salon d'événement](installation/settings/salon-devenement.md)
