@@ -14,4 +14,4 @@ Si vous avez des questions, des préoccupations ou si vous souhaitez obtenir de 
 
 Rejoignez notre serveur Discord pour obtenir de l'aide et discuter avec la communauté du bot ASCEND :
 
-* **Lien du serveur** : [Rejoindre le serveur de support ASCEND](https://discord.gg/YZQQZ48W2b)
+* **Lien du serveur** : [Rejoindre le serveur de support ASCEND](https://discord.gg/r2N73kNbG9)

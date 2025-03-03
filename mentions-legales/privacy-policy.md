@@ -30,7 +30,7 @@ Nous pouvons mettre à jour cette Politique de Confidentialité de temps en temp
 
 ### Contactez-nous
 
-Si vous avez des questions ou des préoccupations concernant cette Politique de Confidentialité, veuillez nous contacter à untanukii@gmail.com.
+Si vous avez des questions ou des préoccupations concernant cette Politique de Confidentialité, veuillez nous contacter sur discord.gg/r2N73kNbG9.
 
 ### Date d'entrée en vigueur
 
