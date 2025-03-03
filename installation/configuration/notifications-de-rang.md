@@ -21,11 +21,11 @@ Une fois activées, les notifications seront envoyées automatiquement dans un s
 ## Comment changer la langue des notifications ?
 
 Les notifications de rang utilisent la **langue du serveur** pour s'adapter à votre communauté.\
-👉 Pour changer la langue utilisée, consultez la page [Changer la langue du serveur](configuration.md).
+👉 Pour changer la langue utilisée, consultez la page [Changer la langue du serveur](langue.md).
 
 ### **Puis-je personnaliser les messages de notification ?**
 
-Non, les messages de notification sont générés automatiquement en fonction du système de rang. Cependant, vous pouvez choisir la [langue des notifications](configuration.md) en modifiant la langue du serveur.
+Non, les messages de notification sont générés automatiquement en fonction du système de rang. Cependant, vous pouvez choisir la [langue des notifications](langue.md) en modifiant la langue du serveur.
 
 ### **Puis-je désactiver les notifications sans supprimer les rangs ?**
 

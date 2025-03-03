@@ -1,68 +1,61 @@
-# Let's start
+# Démarrage
 
-This page will guide you step by step on how to add the bot to your Discord server and start using it.\
-Make sure you have the necessary permissions on your server before getting started!
+Bienvenue dans l’aventure avec le bot ! Cette page vous guide étape par étape pour ajouter le bot à votre serveur Discord et commencer à l’utiliser.
 
-## **Step 1: Inviting the Bot**
+Assurez-vous d’avoir les permissions nécessaires sur votre serveur avant de commencer !
 
-* Click on this link to invite the bot: [**Bot Invitation Link**](https://discord.com/oauth2/authorize?client_id=1312924786451812413)
-* Select the server where you want to add the bot (you must have the **"Manage Server"** permission).
-* Click **Continue**, then review the permissions requested by the bot.
-* Click **Authorize** to add the bot to your server.
-* Complete the CAPTCHA verification if required.
+## Étape 1 : Invitation du bot
 
-## **Step 2: Basic Setup**
+1. Cliquez sur ce lien pour inviter le bot : [Lien d’invitation du bot](https://discord.com/oauth2/authorize?client_id=1312924786451812413\&permissions=275146722497\&integration_type=0\&scope=applications.commands+bot).
+2. Sélectionnez le serveur sur lequel vous souhaitez ajouter le bot (vous devez avoir la permission "Gérer le serveur").
+3. Cliquez sur **Continuer**, puis vérifiez les autorisations demandées par le bot.
+4. Cliquez sur **Autoriser** pour ajouter le bot à votre serveur.
+5. Complétez la vérification CAPTCHA si nécessaire.
 
-Once the bot is added, it will appear online on your server. Here’s what you need to do first:
+## Étape 2 : Configuration de base
 
-**Set up permissions:**
+Une fois le bot ajouté, il sera en ligne sur votre serveur. Voici les premières choses à faire pour le configurer :
 
-* Ensure the bot has the necessary permissions to manage roles and messages.
-* Place the bot’s role **above** other roles so it can assign ranks.
+1. **Configurer les permissions** :
+   * Assurez-vous que le bot a les permissions nécessaires pour gérer les rôles et les messages.
+   * Placez le rôle du bot au-dessus des autres rôles pour qu’il puisse attribuer les rangs.
+2. **Lancer la configuration initiale** :\
+   Utilisez la commande suivante pour configurer le bot rapidement :
+   * `/settings > Rangs > Créer les rôles` : Crée automatiquement les rôles de rang pour votre serveur.
 
-**Initial configuration:**
+{% hint style="success" %}
+Le bot ne demande pas la permission "**Administrateur**". Assurez-vous donc que le bot **ait** la permission "**Voir le Salon**" dans les salons où le bot doit **comptabiliser** les RP.
+{% endhint %}
 
-Use the following command to quickly set up the bot:
+## Étape 3 : Vérifiez les paramètres importants
 
-```
-/settings > Ranks > Setup Ranks
-```
+* Configurez les salons essentiels avec `/settings` :
+  * [**Salon de notifications**](configuration/salon-de-notifications.md) : Choisissez où les notifications de rank up seront envoyées.
+  * [**Salon d’événement**](configuration/salon-devenement.md) : Définissez le salon pour les notifications d’événements.
+  * [**Salon de logs**](configuration/salon-des-logs.md) : Configurez où seront affichés les logs des RP gagnés et perdus.
+* Définissez un **rôle d’événement** si nécessaire via `/settings`.
 
-* This will automatically generate rank roles for your server.
-* The bot **does not** require the "Administrator" permission, but make sure it has **"View Channel"** access in the channels where it should track RP.
+## Étape 4 : Explorez les commandes
 
-## **Step 3: Check Key Settings**
+Voici quelques commandes utiles pour bien démarrer :
 
-Configure the essential channels using `/settings`:
+* `/check` : Vérifiez vos RP, votre rang et vos limites quotidiennes.
+* `/leaderboard` : Consultez les classements.
 
-* **Notification Channel:** Choose where rank-up notifications will be sent.
-* **Event Channel:** Define the channel for event notifications.
-* **Log Channel:** Set where logs of RP gained and lost will be displayed.
-* **Event Role:** Assign a specific role for events if needed via `/settings`.
+### **Ai-je besoin de permissions spéciales pour ajouter le bot ?**
 
-## **Step 4: Explore the Commands**
+Oui, vous devez avoir la permission "Gérer le serveur" sur Discord pour inviter le bot.
 
-Here are some useful commands to get started:
+### **Le bot peut-il être utilisé sur plusieurs serveurs ?**
 
-* `/check` → View your RP, rank, and daily limits.
-* `/leaderboard` → Check the rankings.
+Oui, vous pouvez inviter le bot sur autant de serveurs que vous souhaitez.
 
-## **Frequently Asked Questions**
+### **Que faire si le bot ne fonctionne pas ?**
 
-#### **Do I need special permissions to add the bot?**
+* Vérifiez que le bot a les permissions nécessaires.
+* Assurez-vous qu’il est en ligne.
+* Si le problème persiste, contactez le support via le serveur officiel du bot.
 
-Yes, you must have the **"Manage Server"** permission on Discord to invite the bot.
+### **Puis-je modifier les paramètres après l’ajout ?**
 
-#### **Can the bot be used on multiple servers?**
-
-Yes! You can invite the bot to as many servers as you’d like.
-
-#### **What if the bot isn’t working?**
-
-* Check if the bot has the necessary permissions.
-* Make sure it is online.
-* If the issue persists, contact support via the bot’s official server.
-
-**Can I modify settings after adding the bot?**
-
-Of course! You can change settings anytime using the `/settings` command.
+Bien sûr, vous pouvez modifier les paramètres à tout moment via les commandes `/settings`.
