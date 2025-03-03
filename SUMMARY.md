@@ -11,7 +11,7 @@
 * [Settings](installation/settings/README.md)
   * [Language](installation/settings/language.md)
   * [Setup ranks](installation/settings/setup-ranks.md)
-  * [Tag du serveur](installation/settings/tag-du-serveur.md)
+  * [Server Tag](installation/settings/server-tag.md)
   * [Classement](installation/settings/classement.md)
   * [Salon des logs](installation/settings/salon-des-logs.md)
   * [Type de logs](installation/settings/type-de-logs.md)
