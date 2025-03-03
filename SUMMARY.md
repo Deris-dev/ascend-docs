@@ -18,7 +18,7 @@
   * [Rank Notifications](installation/settings/rank-notifications.md)
   * [Notification Channel](installation/settings/notification-channel.md)
   * [Event Channel](installation/settings/event-channel.md)
-  * [Rôle d'événement](installation/settings/role-devenement.md)
+  * [Event role](installation/settings/event-role.md)
   * [Rangs (Rôles)](installation/settings/rangs-roles.md)
   * [Blacklist](installation/settings/blacklist.md)
 
