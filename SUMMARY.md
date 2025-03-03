@@ -16,7 +16,7 @@
   * [Log Channel](installation/settings/log-channel.md)
   * [Log Type](installation/settings/log-type.md)
   * [Rank Notifications](installation/settings/rank-notifications.md)
-  * [Salon de notifications](installation/settings/salon-de-notifications.md)
+  * [Notification Channel](installation/settings/notification-channel.md)
   * [Salon d'événement](installation/settings/salon-devenement.md)
   * [Rôle d'événement](installation/settings/role-devenement.md)
   * [Rangs (Rôles)](installation/settings/rangs-roles.md)
