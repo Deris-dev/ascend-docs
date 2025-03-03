@@ -1,25 +1,26 @@
 # Table of contents
 
-* [Ajouter le bot](https://discord.com/oauth2/authorize?client_id=1312924786451812413)
-* [Rejoindre le support](https://discord.gg/YZQQZ48W2b)
-* [Vote pour le bot !](https://top.gg/bot/1312924786451812413/vote)
-* [Bienvenue !](README.md)
+* [Add bot](https://discord.com/oauth2/authorize?client_id=1312924786451812413)
+* [Support server](https://discord.gg/YZQQZ48W2b)
+* [Vote for the bot!](https://top.gg/bot/1312924786451812413/vote)
+* [Welcome](README.md)
 
 ## Installation
 
-* [Démarrage](installation/demarrage.md)
-* [Configuration](installation/configuration/README.md)
-  * [Langue](installation/configuration/langue.md)
-  * [Configuration des rôles (Rangs)](installation/configuration/configuration-des-roles-rangs.md)
-  * [Tag du serveur](installation/configuration/tag-du-serveur.md)
-  * [Classement](installation/configuration/classement.md)
-  * [Salon des logs](installation/configuration/salon-des-logs.md)
-  * [Type de logs](installation/configuration/type-de-logs.md)
-  * [Notifications de rang](installation/configuration/notifications-de-rang.md)
-  * [Salon de notifications](installation/configuration/salon-de-notifications.md)
-  * [Salon d'événement](installation/configuration/salon-devenement.md)
-  * [Rôle d'événement](installation/configuration/role-devenement.md)
-  * [Blacklist](installation/configuration/blacklist.md)
+* [Let's start](installation/demarrage.md)
+* [Settings](installation/settings/README.md)
+  * [Language](installation/settings/language.md)
+  * [Setup ranks](installation/settings/setup-ranks.md)
+  * [Tag du serveur](installation/settings/tag-du-serveur.md)
+  * [Classement](installation/settings/classement.md)
+  * [Salon des logs](installation/settings/salon-des-logs.md)
+  * [Type de logs](installation/settings/type-de-logs.md)
+  * [Notifications de rang](installation/settings/notifications-de-rang.md)
+  * [Salon de notifications](installation/settings/salon-de-notifications.md)
+  * [Salon d'événement](installation/settings/salon-devenement.md)
+  * [Rôle d'événement](installation/settings/role-devenement.md)
+  * [Rangs (Rôles)](installation/settings/rangs-roles.md)
+  * [Blacklist](installation/settings/blacklist.md)
 
 ## Apprends les bases
 
